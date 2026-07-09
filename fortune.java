@@ -1,5 +1,7 @@
 package test;
 
+import com.example.fortune.context.FortuneAppContext;
+
 import javax.swing.SwingUtilities;
 
 public class fortune {

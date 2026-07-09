@@ -1,0 +1,5 @@
+.trae/
+*.class
+*.jar
+*.bat
+custom_images/
